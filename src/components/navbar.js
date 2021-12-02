@@ -11,7 +11,7 @@ const Navbar = () =>  {
       <li><a href="cat-tres">Categoria Tres</a></li>
     </ul>
     <span class="material-icons">
-        grade
+     star_rate
     </span>
 
 

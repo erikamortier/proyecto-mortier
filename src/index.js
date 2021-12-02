@@ -11,9 +11,10 @@ import App from "./App"
 
 //4) Necesitamos dibujar la aplicacion en el DOM
 ReactDOM.render(
-//  <React.StrictMode> el modo estricto no lo vamos a usar, viene por defecto
-   <App />
-
-   document.getElementById('root')
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('root')
 );
+
 
