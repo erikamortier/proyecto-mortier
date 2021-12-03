@@ -10,9 +10,7 @@ const Navbar = () =>  {
       <li><a href="#cat-dos">Categoria Dos</a></li>
       <li><a href="cat-tres">Categoria Tres</a></li>
     </ul>
-    <span class="material-icons">
-     star_rate
-    </span>
+
 
 
 </nav>
